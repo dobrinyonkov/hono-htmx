@@ -3,6 +3,6 @@ compatibility_date = "2023-01-01"
 
 [[d1_databases]]
 binding = "DB" # i.e. available in your Worker on env.DB
-database_name = "todo"
-database_id = ""
+database_name = "hono-cf-db"
+database_id = "4c809b53-cd80-459b-aa8e-bf45d6262dee"
 preview_database_id = "local-todo"
